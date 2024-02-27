@@ -14,6 +14,7 @@ public class testproblem {
 	       System.out.println(A.length);
 	       for(int i=1;i<=A.length+1;i++)
 	       {
+		       //
 	           nums.add(i);
 	         }
 	         for(int a :A)
